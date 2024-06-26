@@ -3,3 +3,4 @@ The telecommunication company is experiencing high rates of customer churn, whic
 Tasks Performed: Data Connections, Data Transformation and Cleaning, Applied DAX functions, Created Calculated Columns and Measures, Used Name cards, Slicers, Different Charts etc. for Data Visualization. 
 
 Tools: Power BI and Power Query.
+ 
